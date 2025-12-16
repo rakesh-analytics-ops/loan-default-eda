@@ -48,3 +48,5 @@ directors, actors, genres, ratings, and votes.
 ## Outcome
 Generated insights to support data-driven content and business decisions.
 GitHub: https://github.com/rakesh-analytics-ops
+scripts/
+ └── loan_default_analysis.py
